@@ -1,0 +1,1 @@
+A Mini Class available in PHP,Javascript that uses the Google Maps API to provide geographic information from a address.
